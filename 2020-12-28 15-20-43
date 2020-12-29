@@ -1,0 +1,659 @@
+[000:00:00:00.244.925.100][Info] About to reset the video context
+[000:00:00:00.246.432.000][Info] ---------------------------------
+[000:00:00:00.246.474.800][Info] Initializing D3D11...
+[000:00:00:00.246.490.800][Info] Available Video Adapters: 
+[000:00:00:00.247.949.000][Info] 	Adapter 0: NVIDIA GeForce RTX 3070
+[000:00:00:00.247.978.100][Info] 	  Dedicated VRAM: 4138729472
+[000:00:00:00.247.992.700][Info] 	  Shared VRAM:    4253593600
+[000:00:00:00.248.005.200][Info] 	  PCI ID:         10de:2484
+[000:00:00:00.248.193.100][Info] 	  Driver Version: 27.21.14.6079
+[000:00:00:00.248.304.800][Info] 	  output 0: pos={0, 0}, size={1920, 1080}, attached=true, refresh=60, name=BenQ RL2455
+[000:00:00:00.250.882.000][Info] Loading up D3D11 on adapter NVIDIA GeForce RTX 3070 (0)
+[000:00:00:00.316.998.400][Info] D3D11 loaded successfully, feature level used: b000
+[000:00:00:00.317.032.500][Info] DXGI increase maximum frame latency success
+[000:00:00:00.317.058.100][Info] D3D11 GPU priority setup success
+[000:00:00:00.642.538.600][Info] ---------------------------------
+[000:00:00:00.642.561.300][Info] video settings reset:
+[000:00:00:00.642.561.300][Info] 	base resolution:   2560x1440
+[000:00:00:00.642.561.300][Info] 	output resolution: 1280x720
+[000:00:00:00.642.561.300][Info] 	downscale filter:  Lanczos
+[000:00:00:00.642.561.300][Info] 	fps:               30/1
+[000:00:00:00.642.561.300][Info] 	format:            NV12
+[000:00:00:00.642.561.300][Info] 	YUV mode:          601/Partial
+[000:00:00:00.642.743.200][Info] NV12 texture support enabled
+[000:00:00:00.645.474.900][Debug] ---------------------------------
+[000:00:00:00.647.175.900][Debug] Required module function 'obs_module_load' in module 'E:/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/chrome_elf.dll' not found, loading of module failed
+[000:00:00:00.647.195.900][Debug] ---------------------------------
+[000:00:00:00.648.134.600][Debug] Loading module: coreaudio-encoder.dll
+[000:00:00:00.649.432.800][Warning] [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+[000:00:00:00.649.454.000][Debug] ---------------------------------
+[000:00:00:00.650.015.700][Debug] Loading module: enc-amf.dll
+[000:00:00:00.650.364.400][Debug] [AMF] <obs_module_load> Loading...
+[000:00:00:00.666.132.600][Error] [AMF] Unable to load 'amfrt64.dll', error code 126.
+[000:00:00:00.667.577.000][Error] [AMF] AMF Test failed due to one or more errors.
+[000:00:00:00.667.615.700][Warning] Failed to initialize module 'enc-amf.dll'
+[000:00:00:00.667.635.500][Debug] ---------------------------------
+[000:00:00:00.669.763.900][Debug] Loading module: facemask-plugin.dll
+[000:00:00:00.670.046.300][Debug] ---------------------------------
+[000:00:00:00.670.635.700][Debug] Required module function 'obs_module_load' in module 'E:/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/facemask_AVX.dll' not found, loading of module failed
+[000:00:00:00.670.673.900][Debug] ---------------------------------
+[000:00:00:00.671.186.100][Debug] Required module function 'obs_module_load' in module 'E:/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/facemask_NO_AVX.dll' not found, loading of module failed
+[000:00:00:00.671.209.600][Debug] ---------------------------------
+[000:00:00:00.671.702.000][Debug] Loading module: image-source.dll
+[000:00:00:00.671.919.200][Debug] ---------------------------------
+[000:00:00:00.677.517.600][Debug] Required module function 'obs_module_load' in module 'E:/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/libcef.dll' not found, loading of module failed
+[000:00:00:00.677.538.500][Debug] ---------------------------------
+[000:00:00:00.677.908.000][Debug] Required module function 'obs_module_load' in module 'E:/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/libEGL.dll' not found, loading of module failed
+[000:00:00:00.677.962.800][Debug] ---------------------------------
+[000:00:00:00.680.507.700][Debug] Required module function 'obs_module_load' in module 'E:/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/libGLESv2.dll' not found, loading of module failed
+[000:00:00:00.680.530.100][Debug] ---------------------------------
+[000:00:00:00.681.093.500][Debug] Loading module: motion-transition.dll
+[000:00:00:00.681.185.000][Warning] Failed to load 'en-US' text for module: 'motion-transition.dll'
+[000:00:00:00.681.212.000][Debug] ---------------------------------
+[000:00:00:00.681.862.500][Debug] Loading module: obs-browser.dll
+[000:00:00:00.682.108.100][Info] [obs-browser]: Version 2.8.6
+[000:00:00:00.682.466.000][Debug] ---------------------------------
+[000:00:00:00.684.317.800][Debug] Loading module: obs-ffmpeg.dll
+[000:00:00:00.685.372.400][Info] NVENC supported
+[000:00:00:00.685.389.200][Debug] ---------------------------------
+[000:00:00:00.685.846.500][Debug] Loading module: obs-filters.dll
+[000:00:00:00.686.098.400][Debug] ---------------------------------
+[000:00:00:00.686.630.500][Debug] Loading module: obs-ndi.dll
+[000:00:00:00.686.865.700][Info] [obs-ndi] hello ! (version 4.7.1)
+[000:00:00:00.686.877.000][Error] [obs-ndi] Error when loading the library.
+[000:00:00:00.686.884.400][Warning] Failed to initialize module 'obs-ndi.dll'
+[000:00:00:00.686.897.200][Debug] ---------------------------------
+[000:00:00:00.688.121.700][Debug] Loading module: obs-outputs.dll
+[000:00:00:00.688.798.900][Debug] ---------------------------------
+[000:00:00:00.689.341.100][Debug] Loading module: obs-qsv11.dll
+[000:00:00:00.759.719.500][Debug] ---------------------------------
+[000:00:00:00.760.743.900][Debug] Loading module: obs-text.dll
+[000:00:00:00.761.249.400][Debug] ---------------------------------
+[000:00:00:00.761.877.100][Debug] Loading module: obs-transitions.dll
+[000:00:00:00.762.147.200][Debug] ---------------------------------
+[000:00:00:00.762.685.700][Debug] Loading module: obs-virtualoutput.dll
+[000:00:00:00.762.773.200][Warning] Failed to load 'en-US' text for module: 'obs-virtualoutput.dll'
+[000:00:00:00.762.864.200][Debug] output 'VirtualOutput' (virtual_output) created
+[000:00:00:00.762.878.900][Debug] ---------------------------------
+[000:00:00:00.763.387.600][Debug] Loading module: obs-vst.dll
+[000:00:00:00.763.602.300][Debug] ---------------------------------
+[000:00:00:00.764.119.400][Debug] Loading module: obs-x264.dll
+[000:00:00:00.764.362.800][Debug] ---------------------------------
+[000:00:00:00.764.866.700][Debug] Loading module: rtmp-services.dll
+[000:00:00:00.766.021.700][Debug] ---------------------------------
+[000:00:00:00.766.680.500][Debug] Loading module: text-freetype2.dll
+[000:00:00:00.766.973.400][Debug] ---------------------------------
+[000:00:00:00.767.636.100][Debug] Loading module: vlc-video.dll
+[000:00:00:00.767.838.800][Info] Couldn't find VLC installation, VLC video source disabled
+[000:00:00:00.767.852.400][Debug] ---------------------------------
+[000:00:00:00.768.775.200][Debug] Loading module: win-capture.dll
+[000:00:00:00.772.313.300][Debug] ---------------------------------
+[000:00:00:00.772.863.700][Debug] Loading module: win-decklink.dll
+[000:00:00:00.775.344.200][Warning] A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+[000:00:00:00.775.853.900][Info] No blackmagic support
+[000:00:00:00.775.878.100][Debug] Failed to start search for DeckLink devices
+[000:00:00:00.775.889.500][Debug] ---------------------------------
+[000:00:00:00.776.464.100][Debug] Loading module: win-dshow.dll
+[000:00:00:00.778.015.300][Debug] ---------------------------------
+[000:00:00:00.778.550.400][Debug] Loading module: win-mf.dll
+[000:00:00:00.778.569.100][Debug] ---------------------------------
+[000:00:00:00.779.641.200][Debug] Loading module: win-openvr.dll
+[000:00:00:00.780.050.200][Debug] ---------------------------------
+[000:00:00:00.780.585.600][Debug] Loading module: win-wasapi.dll
+[000:00:00:00.781.108.700][Debug] ---------------------------------
+[000:00:00:00.781.799.300][Debug] Loading module: enc-amf
+[000:00:00:00.782.162.600][Debug] [AMF] <obs_module_load> Loading...
+[000:00:00:00.799.368.100][Error] [AMF] AMF Test failed due to one or more errors.
+[000:00:00:00.799.401.900][Warning] Failed to initialize module 'enc-amf'
+[000:00:00:00.800.777.800][Debug] service 'default_service' (rtmp_common) created
+[000:00:00:00.804.548.400][Debug] output 'simple_stream' (rtmp_output) created
+[000:00:00:00.804.614.300][Debug] output 'simple_file_output' (ffmpeg_muxer) created
+[000:00:00:00.804.689.000][Debug] output 'ReplayBuffer' (replay_buffer) created
+[000:00:00:00.804.707.400][Debug] encoder 'streaming_h264' (jim_nvenc) created
+[000:00:00:00.804.759.000][Debug] AAC encoder bitrate mapping:
+[000:00:00:00.804.759.000][Debug] 	 64 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:00.804.759.000][Debug] 	 96 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:00.804.759.000][Debug] 	128 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:00.804.759.000][Debug] 	160 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:00.804.759.000][Debug] 	192 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:00.804.759.000][Debug] 	224 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:00.804.759.000][Debug] 	256 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:00.804.759.000][Debug] 	288 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:00.804.759.000][Debug] 	320 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:00.804.805.300][Debug] encoder 'streaming_h264' destroyed
+[000:00:00:00.804.822.500][Debug] encoder 'streaming_h264' (jim_nvenc) created
+[000:00:00:00.806.098.900][Debug] obs_encoder_update: Null 'encoder' parameter
+[000:00:00:00.806.124.600][Debug] encoder 'simple_h264_recording' (obs_x264) created
+[000:00:00:00.806.133.800][Info] ---------------------------------
+[000:00:00:00.806.140.300][Info] audio settings reset:
+[000:00:00:00.806.140.300][Info] 	samples per sec: 48000
+[000:00:00:00.806.140.300][Info] 	speakers:        2
+[000:00:00:00.808.941.100][Info] About to reset the video context
+[000:00:00:00.848.895.800][Info] ---------------------------------
+[000:00:00:00.848.919.000][Info] video settings reset:
+[000:00:00:00.848.919.000][Info] 	base resolution:   2560x1440
+[000:00:00:00.848.919.000][Info] 	output resolution: 1280x720
+[000:00:00:00.848.919.000][Info] 	downscale filter:  Lanczos
+[000:00:00:00.848.919.000][Info] 	fps:               30/1
+[000:00:00:00.848.919.000][Info] 	format:            NV12
+[000:00:00:00.848.919.000][Info] 	YUV mode:          601/Partial
+[000:00:00:00.849.080.000][Info] NV12 texture support enabled
+[000:00:00:00.850.491.400][Debug] encoder 'adv_aac0' (ffmpeg_aac) created
+[000:00:00:00.850.527.800][Debug] encoder 'adv_aac1' (ffmpeg_aac) created
+[000:00:00:00.850.543.000][Debug] encoder 'adv_aac2' (ffmpeg_aac) created
+[000:00:00:00.850.555.300][Debug] encoder 'adv_aac3' (ffmpeg_aac) created
+[000:00:00:00.850.571.000][Debug] encoder 'adv_aac4' (ffmpeg_aac) created
+[000:00:00:00.850.581.900][Debug] encoder 'adv_aac5' (ffmpeg_aac) created
+[000:00:00:00.850.590.200][Info] Audio monitoring device:
+[000:00:00:00.850.590.200][Info] 	name: VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)
+[000:00:00:00.850.590.200][Info] 	id: {0.0.0.00000000}.{49452a2a-3637-4192-940e-d40499760516}
+[000:00:00:00.862.522.200][Warning] Failed to load 'en-US' text for module: 'obs-virtualoutput.dll'
+[000:00:00:00.864.002.600][Warning] Failed to load 'en-US' text for module: 'motion-transition.dll'
+[000:00:00:00.873.536.000][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:00:00.873.555.200][Debug] encoder 'streaming_h264' destroyed
+[000:00:00:00.876.642.300][Info] [WASAPISource::WASAPISource] Device 'does_not_exist' not found.  Waiting for device
+[000:00:00:00.876.730.900][Debug] source '53ad6d9c-72b4-418c-a8d0-e39fcf48efbc' (wasapi_input_capture) created
+[000:00:00:00.877.349.900][Info] [WASAPISource::WASAPISource] Device 'does_not_exist' not found.  Waiting for device
+[000:00:00:00.877.410.700][Debug] source 'e6b69409-a7e0-4c66-baab-683cf5e8c169' (wasapi_output_capture) created
+[000:00:00:00.878.026.500][Debug] source '72425daa-5134-44cf-a205-85f5594c0249' (dshow_input) created
+[000:00:00:00.878.282.300][Error] Activate device '72425daa-5134-44cf-a205-85f5594c0249'
+[000:00:00:00.881.352.000][Warning] 72425daa-5134-44cf-a205-85f5594c0249: DecodeDeviceId failed
+[000:00:00:00.881.389.700][Warning] 72425daa-5134-44cf-a205-85f5594c0249: Video configuration failed
+[000:00:00:00.930.985.500][Debug] source '53ad6d9c-72b4-418c-a8d0-e39fcf48efbc' destroyed
+[000:00:00:00.931.401.400][Debug] source 'e6b69409-a7e0-4c66-baab-683cf5e8c169' destroyed
+[000:00:00:00.931.878.000][Debug] source '72425daa-5134-44cf-a205-85f5594c0249' destroyed
+[000:00:00:02.514.088.900][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:00:02.514.106.200][Debug] encoder 'streaming_h264' destroyed
+[000:00:00:02.536.372.400][Info] About to reset the video context
+[000:00:00:02.585.376.900][Info] ---------------------------------
+[000:00:00:02.585.402.200][Info] video settings reset:
+[000:00:00:02.585.402.200][Info] 	base resolution:   2560x1440
+[000:00:00:02.585.402.200][Info] 	output resolution: 1280x720
+[000:00:00:02.585.402.200][Info] 	downscale filter:  Lanczos
+[000:00:00:02.585.402.200][Info] 	fps:               30/1
+[000:00:00:02.585.402.200][Info] 	format:            NV12
+[000:00:00:02.585.402.200][Info] 	YUV mode:          601/Partial
+[000:00:00:02.585.551.800][Info] NV12 texture support enabled
+[000:00:00:02.589.771.900][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:00:02.589.784.200][Debug] encoder 'streaming_h264' destroyed
+[000:00:00:02.602.610.900][Debug] source 'cf1db5d0-e07b-4d11-a996-441a3a6d4b12' (obs_stinger_transition) created
+[000:00:00:02.605.331.800][Debug] source 'a61ed641-8ca4-4e02-b335-93028df52b22' (obs_stinger_transition) created
+[000:00:00:02.606.542.900][Debug] source '422b987a-93b0-48dd-91f2-63dba9d7eb6d' (obs_stinger_transition) created
+[000:00:00:02.610.625.800][Info] [WASAPISource::WASAPISource] Device '{0.0.0.00000000}.{f95e0df4-016e-4a09-bcbb-a6fec09b87a8}' not found.  Waiting for device
+[000:00:00:02.610.677.000][Debug] source 'wasapi_output_capture_8a419d3b-dccc-42e8-aee9-0a265addd672' (wasapi_output_capture) created
+[000:00:00:02.621.776.800][Info] [Media Source '422b987a-93b0-48dd-91f2-63dba9d7eb6d (Stinger)']: settings:
+[000:00:00:02.621.776.800][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\562441566-DarkMode-transition-sound.webm
+[000:00:00:02.621.776.800][Info] 	input_format:            (null)
+[000:00:00:02.621.776.800][Info] 	speed:                   100
+[000:00:00:02.621.776.800][Info] 	is_looping:              no
+[000:00:00:02.621.776.800][Info] 	is_hw_decoding:          no
+[000:00:00:02.621.776.800][Info] 	is_clear_on_media_end:   yes
+[000:00:00:02.621.776.800][Info] 	restart_on_activate:     yes
+[000:00:00:02.621.776.800][Info] 	close_when_inactive:     no
+[000:00:00:02.621.776.800][Info] 	enable_caching:          no
+[000:00:00:02.621.842.300][Debug] private source '422b987a-93b0-48dd-91f2-63dba9d7eb6d (Stinger)' (ffmpeg_source) created
+[000:00:00:02.630.207.000][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:02.634.433.700][Info] WASAPI: Device 'VoiceMeeter Output (VB-Audio VoiceMeeter VAIO)' [44100 Hz] initialized
+[000:00:00:02.634.474.100][Debug] source 'wasapi_input_capture_06f041a9-d91f-4914-b769-a4776cb3103a' (wasapi_input_capture) created
+[000:00:00:02.637.397.800][Info] [Media Source 'a61ed641-8ca4-4e02-b335-93028df52b22 (Stinger)']: settings:
+[000:00:00:02.637.397.800][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\562441261-darkmode-transition.webm
+[000:00:00:02.637.397.800][Info] 	input_format:            (null)
+[000:00:00:02.637.397.800][Info] 	speed:                   100
+[000:00:00:02.637.397.800][Info] 	is_looping:              no
+[000:00:00:02.637.397.800][Info] 	is_hw_decoding:          no
+[000:00:00:02.637.397.800][Info] 	is_clear_on_media_end:   yes
+[000:00:00:02.637.397.800][Info] 	restart_on_activate:     yes
+[000:00:00:02.637.397.800][Info] 	close_when_inactive:     no
+[000:00:00:02.637.397.800][Info] 	enable_caching:          no
+[000:00:00:02.637.511.700][Debug] private source 'a61ed641-8ca4-4e02-b335-93028df52b22 (Stinger)' (ffmpeg_source) created
+[000:00:00:02.640.456.400][Info] [Media Source 'cf1db5d0-e07b-4d11-a996-441a3a6d4b12 (Stinger)']: settings:
+[000:00:00:02.640.456.400][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561669157-Transition-sound.webm
+[000:00:00:02.640.456.400][Info] 	input_format:            (null)
+[000:00:00:02.640.456.400][Info] 	speed:                   100
+[000:00:00:02.640.456.400][Info] 	is_looping:              no
+[000:00:00:02.640.456.400][Info] 	is_hw_decoding:          no
+[000:00:00:02.640.456.400][Info] 	is_clear_on_media_end:   yes
+[000:00:00:02.640.456.400][Info] 	restart_on_activate:     yes
+[000:00:00:02.640.456.400][Info] 	close_when_inactive:     no
+[000:00:00:02.640.456.400][Info] 	enable_caching:          no
+[000:00:00:02.640.517.900][Debug] private source 'cf1db5d0-e07b-4d11-a996-441a3a6d4b12 (Stinger)' (ffmpeg_source) created
+[000:00:00:02.644.366.700][Debug] source 'dshow_input_f95a8d27-2f31-4e07-b84f-c1d38c408ce6' (dshow_input) created
+[000:00:00:02.644.543.200][Error] Activate device 'dshow_input_f95a8d27-2f31-4e07-b84f-c1d38c408ce6'
+[000:00:00:02.645.251.800][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:02.645.412.300][Info] [WASAPISource::WASAPISource] Device '{0.0.1.00000000}.{f7e9d287-5f73-42af-a2b6-6464ee459966}' not found.  Waiting for device
+[000:00:00:02.645.462.900][Debug] source 'wasapi_input_capture_0f88ead3-56f3-486b-a7d2-94ba1b9fd7e8' (wasapi_input_capture) created
+[000:00:00:02.646.339.700][Info] [WASAPISource::WASAPISource] Device '{0.0.1.00000000}.{858dc882-2793-450d-845b-646b0d480917}' not found.  Waiting for device
+[000:00:00:02.646.380.500][Debug] source 'wasapi_input_capture_1b383276-82bb-4d7d-a36d-4b9dceadb3cb' (wasapi_input_capture) created
+[000:00:00:02.647.353.100][Debug] source 'dshow_input_3a09ef6d-4d76-46f0-93ff-b679d03b466f' (dshow_input) created
+[000:00:00:02.647.656.600][Error] Activate device 'dshow_input_3a09ef6d-4d76-46f0-93ff-b679d03b466f'
+[000:00:00:02.655.568.200][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:02.693.053.300][Info] adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: wasapi_input_capture_06f041a9-d91f-4914-b769-a4776cb3103a)
+[000:00:00:02.693.053.300][Info] 
+[000:00:00:02.869.404.500][Info] WASAPI: Device 'Digital Audio Interface (Game Capture HD60 S+)' [48000 Hz] initialized
+[000:00:00:02.869.436.700][Debug] source 'wasapi_input_capture_c05b1702-49fe-423b-bc99-5c03420e183e' (wasapi_input_capture) created
+[000:00:00:02.963.493.600][Debug] DShow: Video media type changed
+[000:00:00:02.966.319.500][Debug] DShow: Video media type changed
+[000:00:00:02.966.333.700][Debug] DShow: Video media type changed
+[000:00:00:02.966.712.900][Info] ---------------------------------
+[000:00:00:02.966.725.300][Info] [DShow Device: 'dshow_input_f95a8d27-2f31-4e07-b84f-c1d38c408ce6'] settings updated: 
+[000:00:00:02.966.725.300][Info] 	video device: c922 Pro Stream Webcam
+[000:00:00:02.966.725.300][Info] 	video path: \\?\usb#vid_046d&pid_085c&mi_00#7&fd79abf&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+[000:00:00:02.966.725.300][Info] 	resolution: 640x480
+[000:00:00:02.966.725.300][Info] 	flip: 0
+[000:00:00:02.966.725.300][Info] 	fps: 30.00 (interval: 333333)
+[000:00:00:02.966.725.300][Info] 	format: YUY2
+[000:00:00:02.966.762.400][Info] ---------------------------------
+[000:00:00:02.966.777.200][Info] [DShow Device: 'dshow_input_3a09ef6d-4d76-46f0-93ff-b679d03b466f'] settings updated: 
+[000:00:00:02.966.777.200][Info] 	video device: Game Capture HD60 S+
+[000:00:00:02.966.777.200][Info] 	video path: \\?\usb#vid_0fd9&pid_006a&mi_00#7&1c1ecf05&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+[000:00:00:02.966.777.200][Info] 	resolution: 1920x1080
+[000:00:00:02.966.777.200][Info] 	flip: 0
+[000:00:00:02.966.777.200][Info] 	fps: 60.00 (interval: 166666)
+[000:00:00:02.966.777.200][Info] 	format: NV12
+[000:00:00:02.969.733.000][Debug] DShow: Loaded filters:
+[000:00:00:02.969.752.100][Debug] DShow: 	Capture Filter
+[000:00:00:02.969.759.400][Debug] DShow: 	Video Filter
+[000:00:00:02.971.784.700][Info] 	using video device audio: no
+[000:00:00:02.971.797.100][Info] 	separate audio filter
+[000:00:00:02.971.802.700][Info] 	sample rate: 0
+[000:00:00:02.971.802.700][Info] 	channels: 0
+[000:00:00:02.971.802.700][Info] 	audio type: WaveOut
+[000:00:00:02.989.417.000][Debug] DShow: Loaded filters:
+[000:00:00:02.989.435.600][Debug] DShow: 	Audio Output Filter
+[000:00:00:02.989.442.400][Debug] DShow: 	Capture Filter
+[000:00:00:02.989.448.700][Debug] DShow: 	Audio Filter
+[000:00:00:02.989.454.500][Debug] DShow: 	Video Filter
+[000:00:00:03.137.427.700][Debug] source 'game_capture_d000d7f7-20fe-496e-80b6-49439d952dce' (game_capture) created
+[000:00:00:03.138.707.500][Info] [Media Source 'ffmpeg_source_ed07ef56-327a-4ec0-95ac-3f0ca19ba307']: settings:
+[000:00:00:03.138.707.500][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561931892-darkmode-intermission-starting.webm
+[000:00:00:03.138.707.500][Info] 	input_format:            (null)
+[000:00:00:03.138.707.500][Info] 	speed:                   100
+[000:00:00:03.138.707.500][Info] 	is_looping:              yes
+[000:00:00:03.138.707.500][Info] 	is_hw_decoding:          no
+[000:00:00:03.138.707.500][Info] 	is_clear_on_media_end:   no
+[000:00:00:03.138.707.500][Info] 	restart_on_activate:     yes
+[000:00:00:03.138.707.500][Info] 	close_when_inactive:     no
+[000:00:00:03.138.707.500][Info] 	enable_caching:          no
+[000:00:00:03.138.756.400][Debug] source 'ffmpeg_source_ed07ef56-327a-4ec0-95ac-3f0ca19ba307' (ffmpeg_source) created
+[000:00:00:03.139.531.700][Debug] source 'text_gdiplus_d0dda221-5295-40f7-97b2-e36101d4dc8c' (text_gdiplus) created
+[000:00:00:03.140.225.500][Info] [Media Source 'ffmpeg_source_98ac4081-63c3-4961-b41f-a7e5bb80def0']: settings:
+[000:00:00:03.140.225.500][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561939933-Chill Lo-fi Hip-Hop Beats FREE _ Lofi Hip Hop Chillhop Music Mix _ GEMN.mp3
+[000:00:00:03.140.225.500][Info] 	input_format:            (null)
+[000:00:00:03.140.225.500][Info] 	speed:                   100
+[000:00:00:03.140.225.500][Info] 	is_looping:              yes
+[000:00:00:03.140.225.500][Info] 	is_hw_decoding:          yes
+[000:00:00:03.140.225.500][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.140.225.500][Info] 	restart_on_activate:     yes
+[000:00:00:03.140.225.500][Info] 	close_when_inactive:     no
+[000:00:00:03.140.225.500][Info] 	enable_caching:          no
+[000:00:00:03.140.276.800][Debug] source 'ffmpeg_source_98ac4081-63c3-4961-b41f-a7e5bb80def0' (ffmpeg_source) created
+[000:00:00:03.141.072.100][Info] [Media Source 'ffmpeg_source_2965fd79-add4-4a3d-98bf-5254b1092ae8']: settings:
+[000:00:00:03.141.072.100][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561964335-darkmode-intermission-pause.webm
+[000:00:00:03.141.072.100][Info] 	input_format:            (null)
+[000:00:00:03.141.072.100][Info] 	speed:                   100
+[000:00:00:03.141.072.100][Info] 	is_looping:              yes
+[000:00:00:03.141.072.100][Info] 	is_hw_decoding:          no
+[000:00:00:03.141.072.100][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.141.072.100][Info] 	restart_on_activate:     yes
+[000:00:00:03.141.072.100][Info] 	close_when_inactive:     no
+[000:00:00:03.141.072.100][Info] 	enable_caching:          no
+[000:00:00:03.141.131.800][Debug] source 'ffmpeg_source_2965fd79-add4-4a3d-98bf-5254b1092ae8' (ffmpeg_source) created
+[000:00:00:03.141.925.400][Info] [Media Source 'ffmpeg_source_34062593-14ea-4259-9c8e-0a8b604104a2']: settings:
+[000:00:00:03.141.925.400][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561960443-FREE SOUND EFFECT - ELEVATOR MUSIC [NO COPYRIGHT].mp3
+[000:00:00:03.141.925.400][Info] 	input_format:            (null)
+[000:00:00:03.141.925.400][Info] 	speed:                   100
+[000:00:00:03.141.925.400][Info] 	is_looping:              yes
+[000:00:00:03.141.925.400][Info] 	is_hw_decoding:          yes
+[000:00:00:03.141.925.400][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.141.925.400][Info] 	restart_on_activate:     yes
+[000:00:00:03.141.925.400][Info] 	close_when_inactive:     no
+[000:00:00:03.141.925.400][Info] 	enable_caching:          no
+[000:00:00:03.141.976.800][Debug] source 'ffmpeg_source_34062593-14ea-4259-9c8e-0a8b604104a2' (ffmpeg_source) created
+[000:00:00:03.142.538.300][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.142.672.400][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.142.828.200][Info] [Media Source 'ffmpeg_source_03fbbf53-7575-4d20-967f-c311a7365722']: settings:
+[000:00:00:03.142.828.200][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561964580-darkmode-intermission-ending.webm
+[000:00:00:03.142.828.200][Info] 	input_format:            (null)
+[000:00:00:03.142.828.200][Info] 	speed:                   100
+[000:00:00:03.142.828.200][Info] 	is_looping:              yes
+[000:00:00:03.142.828.200][Info] 	is_hw_decoding:          no
+[000:00:00:03.142.828.200][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.142.828.200][Info] 	restart_on_activate:     yes
+[000:00:00:03.142.828.200][Info] 	close_when_inactive:     no
+[000:00:00:03.142.828.200][Info] 	enable_caching:          no
+[000:00:00:03.142.879.400][Debug] source 'ffmpeg_source_03fbbf53-7575-4d20-967f-c311a7365722' (ffmpeg_source) created
+[000:00:00:03.143.651.100][Info] [Media Source 'ffmpeg_source_b8829897-391b-4634-80d3-2407933917aa']: settings:
+[000:00:00:03.143.651.100][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561968610-DarkMode-talking-banner-v1.webm
+[000:00:00:03.143.651.100][Info] 	input_format:            (null)
+[000:00:00:03.143.651.100][Info] 	speed:                   100
+[000:00:00:03.143.651.100][Info] 	is_looping:              yes
+[000:00:00:03.143.651.100][Info] 	is_hw_decoding:          no
+[000:00:00:03.143.651.100][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.143.651.100][Info] 	restart_on_activate:     yes
+[000:00:00:03.143.651.100][Info] 	close_when_inactive:     no
+[000:00:00:03.143.651.100][Info] 	enable_caching:          no
+[000:00:00:03.143.703.000][Debug] source 'ffmpeg_source_b8829897-391b-4634-80d3-2407933917aa' (ffmpeg_source) created
+[000:00:00:03.147.702.300][Debug] source 'browser_source_77d1f298-366c-41bc-ac8b-b86f0b2f8d3c' (browser_source) created
+[000:00:00:03.148.651.400][Debug] source 'text_gdiplus_c8c1276d-29d5-4007-a1d8-7587f375d513' (text_gdiplus) created
+[000:00:00:03.149.335.700][Debug] source 'text_gdiplus_de8748cf-95d0-4bc5-a268-21460da9fb87' (text_gdiplus) created
+[000:00:00:03.149.831.600][Debug] source 'text_gdiplus_f1fbb050-bf86-48fc-a6c6-386a92658dce' (text_gdiplus) created
+[000:00:00:03.150.639.600][Debug] source 'text_gdiplus_bace3745-1a78-4fda-ac02-91ba3db6dac5' (text_gdiplus) created
+[000:00:00:03.151.330.700][Debug] source 'text_gdiplus_c6ab9c43-d9f1-41a0-818e-6199b9706d30' (text_gdiplus) created
+[000:00:00:03.156.809.500][Debug] source 'browser_source_e7f0947a-e1c0-4e50-84d3-1f67b62ec273' (browser_source) created
+[000:00:00:03.157.712.400][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.160.610.800][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.161.007.900][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.162.168.900][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.164.981.400][Debug] source 'text_gdiplus_14e514c0-0399-4d0f-ab8f-28aa36149c2f' (text_gdiplus) created
+[000:00:00:03.165.495.000][Debug] source 'text_gdiplus_8dfffb6e-ffa8-4e1e-ae21-30bd6d085949' (text_gdiplus) created
+[000:00:00:03.166.353.400][Info] [Media Source 'ffmpeg_source_b1d38f82-bac5-4d73-86bf-2ca0e8c78597']: settings:
+[000:00:00:03.166.353.400][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\562432454-darkmode-intermission-BG-blank.webm
+[000:00:00:03.166.353.400][Info] 	input_format:            (null)
+[000:00:00:03.166.353.400][Info] 	speed:                   100
+[000:00:00:03.166.353.400][Info] 	is_looping:              yes
+[000:00:00:03.166.353.400][Info] 	is_hw_decoding:          no
+[000:00:00:03.166.353.400][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.166.353.400][Info] 	restart_on_activate:     yes
+[000:00:00:03.166.353.400][Info] 	close_when_inactive:     no
+[000:00:00:03.166.353.400][Info] 	enable_caching:          no
+[000:00:00:03.166.407.900][Debug] source 'ffmpeg_source_b1d38f82-bac5-4d73-86bf-2ca0e8c78597' (ffmpeg_source) created
+[000:00:00:03.171.308.700][Debug] source 'browser_source_75df4128-296e-46f1-9448-cc61cd500483' (browser_source) created
+[000:00:00:03.172.436.700][Info] [Media Source 'ffmpeg_source_41d27686-c099-4762-b3df-494eb6031bb2']: settings:
+[000:00:00:03.172.436.700][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\562499603-Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep.mp3
+[000:00:00:03.172.436.700][Info] 	input_format:            (null)
+[000:00:00:03.172.436.700][Info] 	speed:                   100
+[000:00:00:03.172.436.700][Info] 	is_looping:              yes
+[000:00:00:03.172.436.700][Info] 	is_hw_decoding:          yes
+[000:00:00:03.172.436.700][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.172.436.700][Info] 	restart_on_activate:     yes
+[000:00:00:03.172.436.700][Info] 	close_when_inactive:     no
+[000:00:00:03.172.436.700][Info] 	enable_caching:          no
+[000:00:00:03.172.492.100][Debug] source 'ffmpeg_source_41d27686-c099-4762-b3df-494eb6031bb2' (ffmpeg_source) created
+[000:00:00:03.173.181.300][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.177.162.900][Debug] source 'browser_source_bb8770c8-2a65-409d-8ad0-94df80788530' (browser_source) created
+[000:00:00:03.179.469.300][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.184.100.200][Info] WASAPI: Device 'Digital Audio Interface (Game Capture HD60 S+)' [48000 Hz] initialized
+[000:00:00:03.184.123.400][Debug] source 'wasapi_input_capture_8fc3e6d1-275f-4bb8-99a3-27f66ad81918' (wasapi_input_capture) created
+[000:00:00:03.203.102.700][Info] WASAPI: Device 'CABLE-A Input (VB-Audio Cable A)' [48000 Hz] initialized
+[000:00:00:03.203.130.500][Debug] source 'wasapi_output_capture_c2943987-b0be-4630-9003-925c17eb7a37' (wasapi_output_capture) created
+[000:00:00:03.212.347.200][Info] WASAPI: Device 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' [48000 Hz] initialized
+[000:00:00:03.212.376.700][Debug] source 'wasapi_output_capture_108c2e23-96f5-44ad-85e2-d585e498911e' (wasapi_output_capture) created
+[000:00:00:03.213.113.100][Info] [window-capture: 'window_capture_9d93589c-ec77-4ca5-84db-3d593d3245f5'] update settings:
+[000:00:00:03.213.113.100][Info] 	executable: chrome.exe
+[000:00:00:03.213.113.100][Info] 	method selected: Automatic
+[000:00:00:03.213.113.100][Info] 	method chosen: WGC
+[000:00:00:03.213.113.100][Info] 
+[000:00:00:03.213.152.300][Debug] 	class:      Chrome_WidgetWin_1
+[000:00:00:03.213.157.800][Debug] source 'window_capture_9d93589c-ec77-4ca5-84db-3d593d3245f5' (window_capture) created
+[000:00:00:03.339.600.300][Debug] source 'scene_73f89b84-45c2-456f-afaa-7963f7bd17f3' (scene) created
+[000:00:00:03.510.131.900][Debug] source 'scene_c991c52d-86aa-46eb-9e8a-c81ef3c5cb5f' (scene) created
+[000:00:00:03.512.314.400][Debug] source 'scene_5e981764-d450-4062-a004-8f8b598543df' (scene) created
+[000:00:00:03.514.468.000][Debug] source 'scene_15a13bca-12f0-40d6-b7dd-59bdfdb4dff2' (scene) created
+[000:00:00:03.516.470.200][Debug] source 'scene_544f5cf5-ea73-42b7-b6f0-8bfd916edea8' (scene) created
+[000:00:00:03.518.692.200][Debug] source 'scene_a1e8af7f-5e01-4996-954b-d6ae13dfb8b3' (scene) created
+[000:00:00:03.520.817.600][Debug] source 'scene_16315424-ccaf-4af7-8ba2-92308200eb1e' (scene) created
+[000:00:00:03.541.496.900][Debug] source 'de43c7e1-efac-4d18-989f-63723583bd3a' (cut_transition) created
+[000:00:00:03.541.786.900][Debug] [Media Source 'cf1db5d0-e07b-4d11-a996-441a3a6d4b12 (Stinger)']: nb_frames not set, estimating using frame rate and duration
+[000:00:00:03.562.687.700][Info] CreateBrowserSync - start
+[000:00:00:03.569.929.100][Info] CreateBrowserSync - success
+[000:00:00:03.569.967.300][Info] CreateBrowserSync - end
+[000:00:00:03.758.845.300][Info] [Media Source 'ffmpeg_source_b1d38f82-bac5-4d73-86bf-2ca0e8c78597']: settings:
+[000:00:00:03.758.845.300][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\562432454-darkmode-intermission-BG-blank.webm
+[000:00:00:03.758.845.300][Info] 	input_format:            (null)
+[000:00:00:03.758.845.300][Info] 	speed:                   100
+[000:00:00:03.758.845.300][Info] 	is_looping:              yes
+[000:00:00:03.758.845.300][Info] 	is_hw_decoding:          no
+[000:00:00:03.758.845.300][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.758.845.300][Info] 	restart_on_activate:     yes
+[000:00:00:03.758.845.300][Info] 	close_when_inactive:     no
+[000:00:00:03.758.845.300][Info] 	enable_caching:          no
+[000:00:00:03.763.323.700][Info] [Media Source 'ffmpeg_source_b8829897-391b-4634-80d3-2407933917aa']: settings:
+[000:00:00:03.763.323.700][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561968610-DarkMode-talking-banner-v1.webm
+[000:00:00:03.763.323.700][Info] 	input_format:            (null)
+[000:00:00:03.763.323.700][Info] 	speed:                   100
+[000:00:00:03.763.323.700][Info] 	is_looping:              yes
+[000:00:00:03.763.323.700][Info] 	is_hw_decoding:          no
+[000:00:00:03.763.323.700][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.763.323.700][Info] 	restart_on_activate:     yes
+[000:00:00:03.763.323.700][Info] 	close_when_inactive:     no
+[000:00:00:03.763.323.700][Info] 	enable_caching:          no
+[000:00:00:03.769.467.800][Info] [Media Source 'ffmpeg_source_03fbbf53-7575-4d20-967f-c311a7365722']: settings:
+[000:00:00:03.769.467.800][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561964580-darkmode-intermission-ending.webm
+[000:00:00:03.769.467.800][Info] 	input_format:            (null)
+[000:00:00:03.769.467.800][Info] 	speed:                   100
+[000:00:00:03.769.467.800][Info] 	is_looping:              yes
+[000:00:00:03.769.467.800][Info] 	is_hw_decoding:          no
+[000:00:00:03.769.467.800][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.769.467.800][Info] 	restart_on_activate:     yes
+[000:00:00:03.769.467.800][Info] 	close_when_inactive:     no
+[000:00:00:03.769.467.800][Info] 	enable_caching:          no
+[000:00:00:03.773.285.900][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.777.857.600][Info] [Media Source 'ffmpeg_source_2965fd79-add4-4a3d-98bf-5254b1092ae8']: settings:
+[000:00:00:03.777.857.600][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561964335-darkmode-intermission-pause.webm
+[000:00:00:03.777.857.600][Info] 	input_format:            (null)
+[000:00:00:03.777.857.600][Info] 	speed:                   100
+[000:00:00:03.777.857.600][Info] 	is_looping:              yes
+[000:00:00:03.777.857.600][Info] 	is_hw_decoding:          no
+[000:00:00:03.777.857.600][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.777.857.600][Info] 	restart_on_activate:     yes
+[000:00:00:03.777.857.600][Info] 	close_when_inactive:     no
+[000:00:00:03.777.857.600][Info] 	enable_caching:          no
+[000:00:00:03.779.500.100][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.783.812.900][Info] [Media Source 'ffmpeg_source_ed07ef56-327a-4ec0-95ac-3f0ca19ba307']: settings:
+[000:00:00:03.783.812.900][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561931892-darkmode-intermission-starting.webm
+[000:00:00:03.783.812.900][Info] 	input_format:            (null)
+[000:00:00:03.783.812.900][Info] 	speed:                   100
+[000:00:00:03.783.812.900][Info] 	is_looping:              yes
+[000:00:00:03.783.812.900][Info] 	is_hw_decoding:          no
+[000:00:00:03.783.812.900][Info] 	is_clear_on_media_end:   no
+[000:00:00:03.783.812.900][Info] 	restart_on_activate:     yes
+[000:00:00:03.783.812.900][Info] 	close_when_inactive:     no
+[000:00:00:03.783.812.900][Info] 	enable_caching:          no
+[000:00:00:03.783.923.700][Debug] private source '422b987a-93b0-48dd-91f2-63dba9d7eb6d (Stinger)' destroyed
+[000:00:00:03.787.542.700][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.792.713.200][Info] [Media Source '422b987a-93b0-48dd-91f2-63dba9d7eb6d (Stinger)']: settings:
+[000:00:00:03.792.713.200][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\562441566-DarkMode-transition-sound.webm
+[000:00:00:03.792.713.200][Info] 	input_format:            (null)
+[000:00:00:03.792.713.200][Info] 	speed:                   100
+[000:00:00:03.792.713.200][Info] 	is_looping:              no
+[000:00:00:03.792.713.200][Info] 	is_hw_decoding:          no
+[000:00:00:03.792.713.200][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.792.713.200][Info] 	restart_on_activate:     yes
+[000:00:00:03.792.713.200][Info] 	close_when_inactive:     no
+[000:00:00:03.792.713.200][Info] 	enable_caching:          no
+[000:00:00:03.792.831.700][Debug] private source '422b987a-93b0-48dd-91f2-63dba9d7eb6d (Stinger)' (ffmpeg_source) created
+[000:00:00:03.795.940.000][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.796.743.500][Debug] private source 'a61ed641-8ca4-4e02-b335-93028df52b22 (Stinger)' destroyed
+[000:00:00:03.802.386.500][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.803.726.100][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.804.781.300][Info] [Media Source 'a61ed641-8ca4-4e02-b335-93028df52b22 (Stinger)']: settings:
+[000:00:00:03.804.781.300][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\562441261-darkmode-transition.webm
+[000:00:00:03.804.781.300][Info] 	input_format:            (null)
+[000:00:00:03.804.781.300][Info] 	speed:                   100
+[000:00:00:03.804.781.300][Info] 	is_looping:              no
+[000:00:00:03.804.781.300][Info] 	is_hw_decoding:          no
+[000:00:00:03.804.781.300][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.804.781.300][Info] 	restart_on_activate:     yes
+[000:00:00:03.804.781.300][Info] 	close_when_inactive:     no
+[000:00:00:03.804.781.300][Info] 	enable_caching:          no
+[000:00:00:03.804.843.000][Debug] private source 'a61ed641-8ca4-4e02-b335-93028df52b22 (Stinger)' (ffmpeg_source) created
+[000:00:00:03.807.638.600][Debug] private source 'cf1db5d0-e07b-4d11-a996-441a3a6d4b12 (Stinger)' destroyed
+[000:00:00:03.812.656.800][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.814.443.400][Info] [Media Source 'cf1db5d0-e07b-4d11-a996-441a3a6d4b12 (Stinger)']: settings:
+[000:00:00:03.814.443.400][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561669157-Transition-sound.webm
+[000:00:00:03.814.443.400][Info] 	input_format:            (null)
+[000:00:00:03.814.443.400][Info] 	speed:                   100
+[000:00:00:03.814.443.400][Info] 	is_looping:              no
+[000:00:00:03.814.443.400][Info] 	is_hw_decoding:          no
+[000:00:00:03.814.443.400][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.814.443.400][Info] 	restart_on_activate:     yes
+[000:00:00:03.814.443.400][Info] 	close_when_inactive:     no
+[000:00:00:03.814.443.400][Info] 	enable_caching:          no
+[000:00:00:03.814.517.600][Debug] private source 'cf1db5d0-e07b-4d11-a996-441a3a6d4b12 (Stinger)' (ffmpeg_source) created
+[000:00:00:03.818.188.200][Info] Skip releasing memory
+[000:00:00:03.818.330.300][Info] [Media Source 'ffmpeg_source_34062593-14ea-4259-9c8e-0a8b604104a2']: settings:
+[000:00:00:03.818.330.300][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561960443-FREE SOUND EFFECT - ELEVATOR MUSIC [NO COPYRIGHT].mp3
+[000:00:00:03.818.330.300][Info] 	input_format:            (null)
+[000:00:00:03.818.330.300][Info] 	speed:                   100
+[000:00:00:03.818.330.300][Info] 	is_looping:              yes
+[000:00:00:03.818.330.300][Info] 	is_hw_decoding:          yes
+[000:00:00:03.818.330.300][Info] 	is_clear_on_media_end:   yes
+[000:00:00:03.818.330.300][Info] 	restart_on_activate:     yes
+[000:00:00:03.818.330.300][Info] 	close_when_inactive:     no
+[000:00:00:03.818.330.300][Info] 	enable_caching:          no
+[000:00:00:03.819.209.800][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:03.829.659.300][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:04.072.181.400][Info] Skip releasing memory
+[000:00:00:04.072.372.900][Info] [Media Source 'ffmpeg_source_41d27686-c099-4762-b3df-494eb6031bb2']: settings:
+[000:00:00:04.072.372.900][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\562499603-Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep.mp3
+[000:00:00:04.072.372.900][Info] 	input_format:            (null)
+[000:00:00:04.072.372.900][Info] 	speed:                   100
+[000:00:00:04.072.372.900][Info] 	is_looping:              yes
+[000:00:00:04.072.372.900][Info] 	is_hw_decoding:          yes
+[000:00:00:04.072.372.900][Info] 	is_clear_on_media_end:   yes
+[000:00:00:04.072.372.900][Info] 	restart_on_activate:     yes
+[000:00:00:04.072.372.900][Info] 	close_when_inactive:     no
+[000:00:00:04.072.372.900][Info] 	enable_caching:          no
+[000:00:00:04.073.412.700][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:00:04.154.905.400][Info] Skip releasing memory
+[000:00:00:04.155.022.300][Info] [Media Source 'ffmpeg_source_98ac4081-63c3-4961-b41f-a7e5bb80def0']: settings:
+[000:00:00:04.155.022.300][Info] 	input:                   C:\Users\nickp\AppData\Roaming\slobs-client\Media\561939933-Chill Lo-fi Hip-Hop Beats FREE _ Lofi Hip Hop Chillhop Music Mix _ GEMN.mp3
+[000:00:00:04.155.022.300][Info] 	input_format:            (null)
+[000:00:00:04.155.022.300][Info] 	speed:                   100
+[000:00:00:04.155.022.300][Info] 	is_looping:              yes
+[000:00:00:04.155.022.300][Info] 	is_hw_decoding:          yes
+[000:00:00:04.155.022.300][Info] 	is_clear_on_media_end:   yes
+[000:00:00:04.155.022.300][Info] 	restart_on_activate:     yes
+[000:00:00:04.155.022.300][Info] 	close_when_inactive:     no
+[000:00:00:04.155.022.300][Info] 	enable_caching:          no
+[000:00:00:04.155.931.200][Warning] warning: Could not update timestamps for skipped samples.
+[000:00:05:18.030.281.700][Debug] service 'default_service' (rtmp_common) created
+[000:00:05:18.030.311.200][Debug] service 'default_service' destroyed
+[000:00:05:18.035.775.400][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.035.788.500][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.050.483.500][Debug] service 'default_service' (rtmp_common) created
+[000:00:05:18.050.502.900][Debug] service 'default_service' destroyed
+[000:00:05:18.055.199.800][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.055.214.400][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.253.806.300][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.253.826.400][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.276.701.500][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.276.720.000][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.289.713.100][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.289.735.800][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.307.599.100][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.307.616.500][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.324.773.600][Info] About to reset the video context
+[000:00:05:18.388.576.500][Info] ---------------------------------
+[000:00:05:18.388.612.500][Info] video settings reset:
+[000:00:05:18.388.612.500][Info] 	base resolution:   2560x1440
+[000:00:05:18.388.612.500][Info] 	output resolution: 1280x720
+[000:00:05:18.388.612.500][Info] 	downscale filter:  Lanczos
+[000:00:05:18.388.612.500][Info] 	fps:               30/1
+[000:00:05:18.388.612.500][Info] 	format:            NV12
+[000:00:05:18.388.612.500][Info] 	YUV mode:          601/Partial
+[000:00:05:18.388.760.900][Info] NV12 texture support enabled
+[000:00:05:18.393.907.100][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.393.920.600][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.405.880.100][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.405.895.300][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.426.306.600][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.426.324.300][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.438.426.900][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.438.444.600][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.461.897.000][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.461.913.800][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.472.183.300][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.472.199.200][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.491.177.400][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.491.194.200][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.501.285.900][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.501.301.200][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.518.430.200][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.518.447.800][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.529.099.200][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.529.113.000][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.544.696.600][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.544.712.900][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.554.112.600][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.554.142.200][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.573.742.000][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.573.759.200][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.582.737.100][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.582.750.900][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.598.732.900][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.598.750.300][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.608.836.000][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.608.850.400][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.626.823.900][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:05:18.626.842.500][Debug] encoder 'streaming_h264' destroyed
+[000:00:05:18.649.416.900][Debug] output 'simple_stream' destroyed
+[000:00:05:18.651.104.700][Debug] output 'simple_stream' (rtmp_output) created
+[000:00:05:18.652.304.100][Info] ---------------------------------
+[000:00:05:18.652.314.600][Info] [x264 encoder: 'streaming_h264'] preset: ultrafast
+[000:00:05:18.652.320.600][Info] [x264 encoder: 'streaming_h264'] profile: main
+[000:00:05:18.657.265.200][Info] [x264 encoder: 'streaming_h264'] settings:
+[000:00:05:18.657.265.200][Info] 	rate_control: CBR
+[000:00:05:18.657.265.200][Info] 	bitrate:      4500
+[000:00:05:18.657.265.200][Info] 	buffer size:  4500
+[000:00:05:18.657.265.200][Info] 	crf:          0
+[000:00:05:18.657.265.200][Info] 	fps_num:      30
+[000:00:05:18.657.265.200][Info] 	fps_den:      1
+[000:00:05:18.657.265.200][Info] 	width:        1280
+[000:00:05:18.657.265.200][Info] 	height:       720
+[000:00:05:18.657.265.200][Info] 	keyint:       60
+[000:00:05:18.657.265.200][Info] 
+[000:00:05:18.657.371.100][Info] [x264 encoder: 'streaming_h264'] custom settings: 
+[000:00:05:18.657.371.100][Info] 	cabac = 1
+[000:00:05:18.657.371.100][Info] 	ref = 1
+[000:00:05:18.657.371.100][Info] 	deblock = 1:0:0
+[000:00:05:18.657.371.100][Info] 	analyse = 0x3:0x113
+[000:00:05:18.657.371.100][Info] 	me = hex
+[000:00:05:18.657.371.100][Info] 	subme = 1
+[000:00:05:18.657.371.100][Info] 	trellis = 0
+[000:00:05:18.657.371.100][Info] 	8x8dct = 1
+[000:00:05:18.657.371.100][Info] 	lookahead_threads = 6
+[000:00:05:18.657.371.100][Info] 	bframes = 3
+[000:00:05:18.657.371.100][Info] 	b_pyramid = 2
+[000:00:05:18.657.371.100][Info] 	b_adapt = 1
+[000:00:05:18.657.371.100][Info] 	b_bias = 0
+[000:00:05:18.657.371.100][Info] 	weightb = 1
+[000:00:05:18.657.371.100][Info] 	weightp = 1
+[000:00:05:18.657.371.100][Info] 	scenecut = 40
+[000:00:05:18.657.371.100][Info] 	rc_lookahead = 10
+[000:00:05:18.657.371.100][Info] 	mbtree = 1
+[000:00:05:18.657.371.100][Info] 	scenecut = 0
+[000:00:05:18.681.435.700][Info] ---------------------------------
+[000:00:05:18.681.616.600][Info] [FFmpeg aac encoder: 'adv_aac0'] bitrate: 160, channels: 2, channel_layout: 3
+[000:00:05:18.681.616.600][Info] 
+[000:00:05:18.715.167.700][Info] [rtmp stream: 'simple_stream'] Dynamic bitrate enabled.  Dropped frames begone!
+[000:00:05:18.715.212.300][Info] [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://live-sjc05.twitch.tv/app...
+[000:00:05:18.737.910.400][Info] [rtmp stream: 'simple_stream'] Interface: Realtek PCIe GbE Family Controller #2 (ethernet, 1000 mbps)
+[000:00:05:19.313.260.300][Info] [rtmp stream: 'simple_stream'] Connection to rtmp://live-sjc05.twitch.tv/app successful
+[000:00:16:51.654.942.500][Debug] <OBS::Display::SetSize> Adjusting display size for source wasapi_input_capture_0f88ead3-56f3-486b-a7d2-94ba1b9fd7e8 to 600x200. hwnd 657090
+[000:00:16:51.658.544.600][Debug] <OBS::Display::SetPosition> Adjusting display position for source wasapi_input_capture_0f88ead3-56f3-486b-a7d2-94ba1b9fd7e8 to 0x30. hwnd 657090
+[000:00:16:55.745.434.500][Info] WASAPI: Device 'Microphone (Yeti X)' [48000 Hz] initialized
+[000:00:51:44.299.508.700][Debug] output 'simple_stream' destroyed
+[000:00:51:44.299.605.600][Info] [rtmp stream: 'simple_stream'] User stopped the stream
+[000:00:51:44.299.684.900][Info] Output 'simple_stream': stopping
+[000:00:51:44.299.696.400][Info] Output 'simple_stream': Total frames output: 83513
+[000:00:51:44.299.703.100][Info] Output 'simple_stream': Total drawn frames: 83568
+[000:00:51:44.315.571.000][Warning] warning: 2 frames left in the queue on closing
+[000:00:51:44.349.656.400][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:51:44.349.678.700][Debug] encoder 'streaming_h264' destroyed
+[000:00:51:44.365.899.300][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:51:44.365.916.000][Debug] encoder 'streaming_h264' destroyed
+[000:00:51:44.392.749.400][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:51:44.392.768.300][Debug] encoder 'streaming_h264' destroyed
+[000:00:51:44.407.710.000][Info] About to reset the video context
+[000:00:51:44.457.898.700][Info] ---------------------------------
+[000:00:51:44.457.933.100][Info] video settings reset:
+[000:00:51:44.457.933.100][Info] 	base resolution:   2560x1440
+[000:00:51:44.457.933.100][Info] 	output resolution: 1280x720
+[000:00:51:44.457.933.100][Info] 	downscale filter:  Lanczos
+[000:00:51:44.457.933.100][Info] 	fps:               30/1
+[000:00:51:44.457.933.100][Info] 	format:            NV12
+[000:00:51:44.457.933.100][Info] 	YUV mode:          601/Partial
+[000:00:51:44.458.087.300][Info] NV12 texture support enabled
+[000:00:51:44.464.398.800][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:51:44.464.413.200][Debug] encoder 'streaming_h264' destroyed
